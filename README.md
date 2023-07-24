@@ -46,6 +46,10 @@ small CPU PCB can have standard Heatsink / waterblock mounting holes. </br>
 The idea is to make an ATX board, similar to NXP dev board, but cost reduced. </br>
 different versions: with so-dimm ddr3, with standard full size ddr3 </br>
 with cheap 1Gbe Ethernet, with Better 1x SFP+ 10G cage, </br>
+instead of CPU SATA-II 3Gbps, faster SATA-III 6Gbps to PCIe like [Sonnet Temp SSD to PCIe card](https://www.sonnettech.com/product/tempossd.html) </br>
+or nothing, just PCIe slots, </br>
+maybe PCI to PCIe "there are 4 different IC brands", </br> some old PCI cards like Digi001 have issues with X58 PCI bridge, but work ok n 975x. </br>
+and/or NVMe U-Boot drivers </br>
 Not all in 1 board. </br>
 
 RaptorComputerSystems https://www.raptorcs.com/content/base/products.html </br>

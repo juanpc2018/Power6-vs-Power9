@@ -4,7 +4,7 @@
 the reason for this, is because A-EON X5000 board with P5020 | P5040 CPU, </br>
 has become outdated. </br>
 Old P-CPUs: </br>
-Power5 e5500 45nm No-Altivec 2/4-cores 2Ghz PCIe v2.0 "2005-2010 technology" </br>
+Power5 e5500 45nm No-Altivec 2/4-cores PCIe v2.0 "2005-2010 technology" </br>
 
 The idea is to make an Open Board for New T-CPUs, dual Boot Firmware: PREP and U-Boot. </br>
 T-CPUs: </br>

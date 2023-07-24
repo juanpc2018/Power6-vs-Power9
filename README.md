@@ -52,15 +52,15 @@ The idea is to make an ATX board, compatible with many cases, </br>
 similar to NXP dev board, but cost reduced. </br>
 different versions: with so-dimm "laptop" ddr3, with standard full size "Desktop" ddr3 </br>
 maybe ddr can also be a PCIe module, user can swap. </br> 
-with cheap 1Gbe Ethernet, with Better 1x SFP+ 10G cage, NXP recomended IC or common Aquantia AC100 Broadcom </br>
+with cheap 1Gbe Ethernet, with Better 1x SFP+ 10G cage, NXP recomended IC or common Aquantia AC100 Marvell </br>
 with CPU SATA-II 3Gbps, with faster SATA-III 6Gbps like [Sonnet Temp SSD to PCIe card](https://www.sonnettech.com/product/tempossd.html) </br>
 or nothing, just PCIe slots, </br>
-maybe with PCI to PCIe "there are 4 different IC brands", </br> 
-some old PCI cards like Digi001 have issues with X58 PCI bridge, but work ok in 975x boards. </br>
-and/or NVMe U-Boot drivers </br>
-Not all in 1 board. </br>
+maybe with PCI to PCIe bridge "there are 4 different IC brands", </br> 
+some old PCI cards like Digi001 have issues with X58 PCI, but work ok with older 975x boards. </br>
+and/or NVMe U-Boot drivers, PCIe v2.0 is limited to 1600MB/s, PCIe v3.0 2500MB/s, PCIe v4.0 >5000MB/s </br>
+some PCIe to NVMe cards have a Bifurcation IC, that allows 2500MB/s in PCIe v2.0, 5000MB/s in PCIe v3.0. </br>
 
-RaptorComputerSystems https://www.raptorcs.com/content/base/products.html </br>
+[RaptorComputerSystems](https://www.raptorcs.com/content/base/products.html) </br>
 Boards: </br>
 Talos-II </br>
 Talos-I </br>

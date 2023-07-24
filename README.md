@@ -6,8 +6,8 @@ has become outdated. </br>
 Old P-CPUs: </br>
 Power5 e5500 45nm No-Altivec 2/4-cores 2Ghz PCIe v2.0 "2005-2010 technology" </br>
 
-The idea is to make a New Open Board for T-CPUs, dual Boot Firmware: PREP and U-Boot. </br>
-New T-CPUs: </br>
+The idea is to make a New Open Board for New T-CPUs, dual Boot Firmware: PREP and U-Boot. </br>
+T-CPUs: </br>
 Power6 e6500 28nm Altivec ddr3-1600 </br>
 4/8/12-cores, 2-Threads per core, 1.8Ghz/1.6Ghz/1.5Ghz </br>
 2x PCIe v3.0 + 2x PCIe 2.0, 3x memory channels in 12-core model. </br>

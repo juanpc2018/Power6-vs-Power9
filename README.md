@@ -13,7 +13,7 @@ Power6 e6500 28nm Altivec ddr3-1600 </br>
 2x PCIe v3.0 + 2x PCIe 2.0, 3x memory channels in 12-core model. </br>
 Big.Endian </br>
 vs. </br>
-Power9v2 4/8/18/22-cores 4-threads per core, PCIe v4.0 </br>
+Power9v2 4/8/18/22-cores 4-threads per core, PCIe v4.0 ddr4-ecc </br>
 Bi-Endian, but most Linux distros are little.endiam. </br>
 
 All comes down to Price. </br>

@@ -95,8 +95,8 @@ gives discrepancy in price per core. </br>
 
 IF purchasing quantity were optimized for same price per core, </br>
 Higest price per core: </br>
-Power9 22-core $5197.5usd. | $237usd. </br>
-Power9 18-core $4252.5usd. | $237usd. </br>
+Power9 22-core $5197usd. | $237usd. </br>
+Power9 18-core $4252usd. | $237usd. </br>
 Power9 8-core  $1890usd.   | $237usd. </br>
 Power9 4-core  $945usd.    | $237usd. </br>
 Lowest price per core: </br>

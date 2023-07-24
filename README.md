@@ -4,16 +4,16 @@
 the reason for this, is because A-EON X5000 board with P5020 | P5040 CPU, </br>
 has become outdated. </br>
 Old P-CPUs: </br>
-Power5 e5500 45nm No-Altivec 2/4-cores PCIe v2.0 "2005-2010 technology" </br>
+Power5 e5500 45nm No-Altivec 2|4-cores PCIe v2.0 "2005-2010 technology" </br>
 
 The idea is to make an Open Board for New T-CPUs, dual Boot Firmware: PREP and U-Boot. </br>
 T-CPUs: </br>
 Power6 e6500 28nm Altivec ddr3-1600 </br>
-4/8/12-cores, 2-Threads per core, 1.8Ghz/1.6Ghz/1.5Ghz </br>
+4|8|12-cores, 2-Threads per core, 1.8Ghz/1.6Ghz/1.5Ghz </br>
 2x PCIe v3.0 + 2x PCIe 2.0, 3x memory channels in 12-core model. </br>
 Big.Endian </br>
 vs. </br>
-Power9v2 4/8/18/22-cores 4-threads per core, PCIe v4.0 ddr4-ecc </br>
+Power9v2 4|8|18|22-cores 4-threads per core, PCIe v4.0 ddr4-ecc </br>
 Bi-Endian, but most Linux distros are little.endiam. </br>
 
 All comes down to Price. </br>

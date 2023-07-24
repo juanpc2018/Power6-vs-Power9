@@ -20,7 +20,7 @@ All comes down to Price. </br>
 ¿is worth a DIY Power6 today? </br>
 Power6 has No Board, DIY. KiCAD, Target3001!, Eagle, etc... </br>
 NXP Development Board is Crazy Expensive >$4500-$6000usd.BTO </br>
-comes with too much all-in-one 4x different Network adapters, etc... </br>
+comes with too much all-in-one, 4x different Network adapters, etc... </br>
 
 Power9 has 3x Boards, Ready to Run. </br>
 
@@ -38,7 +38,7 @@ Balls are 1mm pitch, a DIY Socket will solve a lot of soldering issues,  </br>
 and will create a used CPU market, making easier for late adopters to get-in, </br>
 but diy socket will increase price. </br>
 other sollution can be like older PowerMac, Amiga or Pentium-II "CPU cards with PCI connector", </br>
-easier than DIY socket. </br>
+easier than DIY socket, CPU soldered to a small PCB, and can be swaped by user very easy. </br>
 
 The idea is to make an ATX board, similar to NXP dev board, but cost reduced. </br>
 different versions: with so-dimm ddr3, with standard full size ddr3 </br>

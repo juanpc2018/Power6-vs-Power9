@@ -36,10 +36,13 @@ with spring tip, like a Pentium4 CPU soocket but backwards, Pins on board, </br>
 like AMD Ryzem, but backwards, pins on board, but must have springs 5mm tolerance. </br>
 Balls are 1mm pitch, a DIY Socket will solve a lot of soldering issues,  </br>
 and will create a used CPU market, making easier for late adopters to get-in, </br>
-but diy soxket will increase price. </br>
-The idea is to make an ATX board similar to NXP dev board, but cost reduced. </br>
-different versions, with so-dimm ddr3, with standard full size ddr3, </br>
-with cheap 1Gbe Ethernet, with 1x SFP 10G cage, </br>
+but diy socket will increase price. </br>
+other sollution can be like older PowerMac, Amiga or Pentium-II "CPU cards with PCI connector", </br>
+easier than DIY socket. </br>
+
+The idea is to make an ATX board, similar to NXP dev board, but cost reduced. </br>
+different versions: with so-dimm ddr3, with standard full size ddr3 </br>
+with cheap 1Gbe Ethernet, with Better 1x SFP+ 10G cage, </br>
 Not all in 1 board. </br>
 
 RaptorComputerSystems https://www.raptorcs.com/content/base/products.html </br>

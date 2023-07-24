@@ -63,10 +63,10 @@ Talos-I </br>
 Backbird </br>
 
 CPUs: </br>
-Power9 22-core $4962usd. | $225.55usd. per core. </br>
-Power9 18-core $2634usd. | $146.33usd. per core. </br>
-Power9 8-core  $1366usd. | $170.75usd. per core. </br>
-Power9 4-core  $945usd.  | $236.25usd. per core. </br>
+Power9 22-core $4962usd. | $226usd. per core. </br>
+Power9 18-core $2634usd. | $147usd. per core. </br>
+Power9 8-core  $1366usd. | $171usd. per core. </br>
+Power9 4-core  $945usd.  | $237usd. per core. </br>
 
 2x CPU board TL2MB1: </br>
 $4050usd. = $2025usd. per cpu </br>
@@ -90,14 +90,15 @@ gives discrepancy in price per core. </br>
 
 IF purchasing quantity were optimized for same price per core, </br>
 Higest price per core: </br>
-Power9 22-core $5197.5usd. | $236.25usd. </br>
-Power9 18-core $4252.5usd. | $236.25usd. </br>
-Power9 8-core  $1890usd.   | $236.25usd. </br>
-Power9 4-core  $945usd.    | $236.25usd. </br>
+Power9 22-core $5197.5usd. | $237usd. </br>
+Power9 18-core $4252.5usd. | $237usd. </br>
+Power9 8-core  $1890usd.   | $237usd. </br>
+Power9 4-core  $945usd.    | $237usd. </br>
 Lowest price per core: </br>
-Power9 22-core $3220usd. | $146.33usd. </br>
-Power9 18-core $2634usd. | $146.33usd. </br>
-Power9 8-core  $1171usd. | $146.33usd. </br>
-Power9 4-core  $586usd.  | $146.33usd. </br>
+Power9 22-core $3220usd. | $147usd. </br>
+Power9 18-core $2634usd. | $147usd. </br>
+Power9 8-core  $1171usd. | $147usd. </br>
+Power9 4-core  $586usd.  | $147usd. </br>
 
 having a lower price per core requires purchasing very large quantity. </br>
+REQUIRES GoFundME or similar. </br>

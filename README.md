@@ -35,7 +35,7 @@ DIY socket could be like some Fine Stylus tips, </br>
 with spring tip, like a Pentium4 CPU soocket but backwards, Pins on board, </br>
 like AMD Ryzem, but backwards, pins on board, but must have springs 5mm tolerance. </br>
 Balls are 1mm pitch, a DIY Socket will solve a lot of soldering issues,  </br>
-and will create a used CPU market, making easier for late adopters to get-in the boat, </br>
+and will create a used CPU market, making easier for late adopters to get-in, </br>
 but diy soxket will increase price. </br>
 The idea is to make an ATX board similar to NXP dev board, but cost reduced. </br>
 different versions, with so-dimm ddr3, with standard full size ddr3, </br>

@@ -1,6 +1,13 @@
 # Power6 vs. Power9
 -----
 
+the reason for this, is because A-EON X5000 board with P5020 | P5040 CPU, </br>
+has become outdated. </br>
+Old P-CPUs: </br>
+Power5 e5500 45nm No-Altivec 2/4-cores 2Ghz PCIe v2.0 "2009 / 2010 technology, similar X58 MacPro5,1 2009 / 2010 / 2012" </br>
+
+The idea is to make a New Open Board for T-CPUs, dual Boot Firmware: PREP and U-Boot. </br>
+New T-CPUs: </br>
 Power6 e6500 28nm Altivec ddr3-1600 </br>
 4/8/12-cores, 2-Threads per core, 1.8Ghz/1.6Ghz/1.5Ghz </br>
 2x PCIe v3.0 + 2x PCIe 2.0, 3x memory channels in 12-core model. </br>
@@ -17,13 +24,13 @@ comes with too much all-in-one 4x different Network adapters, etc... </br>
 Power9 has 3x Boards, Ready to Run. </br>
 
 Problem with most modern Boards, </br>
-is that CPU pins are designed to fail, </br>
-metal is brittle, that did Not happened with older boards. </br>
+is that CPU pins, Sockets Made in China are designed to fail, </br>
+metal is brittle, did Not happened with older boards X58. </br>
 
 DIY board can be: </br>
-soldered CPU <2000 solder balls, or </br>
+soldered CPU 2000 solder balls, or </br>
 custom socket, No off the shelf part. </br>
-im thinking DIY socket could be like some Fine Stylus tips, </br>
+DIY socket could be like some Fine Stylus tips, </br>
 with spring tip, like a Pentium4 CPU soocket but backwards, Pins on board, </br>
 like AMD Ryzem, but backwards, pins on board, but must have springs 5mm tolerance. </br>
 Balls are 1mm pitch, a DIY Socket will solve a lot of soldering issues,  </br>

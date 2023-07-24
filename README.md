@@ -46,7 +46,7 @@ easier than DIY socket, CPU soldered to a small PCB, can be swaped by user very 
 and a metallic bracket / retention mechanism / support, like gamer boards. </br>
 small CPU PCB can have standard Heatsink / waterblock mounting holes. </br>
 1x CPU PCIe for Vertical L. "Cost Reduced" </br>
-2x PCIe for Horizontal = similar to Atmel STK600 mcu & rouding cards. </br> 
+2x PCIe for Horizontal = similar to Atmel STK600 mcu & routing cards. </br> 
 
 The idea is to make an ATX board, compatible with many cases, </br>
 similar to NXP dev board, but cost reduced. </br>

@@ -17,6 +17,7 @@ Power9v2 4/8/18/22-cores 4-threads per core, PCIe v4.0 ddr4-ecc </br>
 Bi-Endian, but most Linux distros are little.endiam. </br>
 
 All comes down to Price. </br>
+¿is worth a DIY Power6 today? </br>
 Power6 has No Board, DIY. KiCAD, Target3001!, Eagle, etc... </br>
 NXP Development Board is Crazy Expensive >$4500-$6000usd.BTO </br>
 comes with too much all-in-one 4x different Network adapters, etc... </br>

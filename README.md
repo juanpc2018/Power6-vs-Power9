@@ -37,7 +37,7 @@ like [AMD Ryzem](https://en.wikipedia.org/wiki/Ryzen#/media/File:AMD_Ryzen_7_370
 Balls are 1mm pitch, a DIY Socket will solve a lot of soldering issues,  </br>
 and will create a used CPU market, making easier for late adopters to get-in, </br>
 but diy socket will increase price. </br>
-other sollution can be like older PowerMac, Amiga or [Pentium-II](https://en.wikipedia.org/wiki/Pentium_II) "CPU cards with PCI connector", </br>
+other sollution can be like older PowerMac, Amiga 4k or [Pentium-II](https://en.wikipedia.org/wiki/Pentium_II) "CPU cards with PCI connector", </br>
 easier than DIY socket, CPU soldered to a small PCB, can be swaped by user very easy. </br>
 2Ghz may require surface mount PCIe connector, Not Though Hole, </br>
 and a metallic bracket / retention mechanism / support, like gamer boards. </br>

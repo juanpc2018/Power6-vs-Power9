@@ -37,8 +37,10 @@ like AMD Ryzem, but backwards, pins on board, but must have springs 5mm toleranc
 Balls are 1mm pitch, a DIY Socket will solve a lot of soldering issues,  </br>
 and will create a used CPU market, making easier for late adopters to get-in, </br>
 but diy socket will increase price. </br>
-other sollution can be like older PowerMac, Amiga or Pentium-II "CPU cards with PCI connector", </br>
+other sollution can be like older PowerMac, Amiga or [Pentium-II](https://en.wikipedia.org/wiki/Pentium_II) "CPU cards with PCI connector", </br>
 easier than DIY socket, CPU soldered to a small PCB, can be swaped by user very easy. </br>
+2Ghz may require surface mount PCIe connector, Not Though Hole, </br>
+and a metallic bracket / retention mechanism / support, like gamer boards. </br>
 
 The idea is to make an ATX board, similar to NXP dev board, but cost reduced. </br>
 different versions: with so-dimm ddr3, with standard full size ddr3 </br>

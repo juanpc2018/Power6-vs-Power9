@@ -52,7 +52,7 @@ The idea is to make an ATX board, compatible with many cases, </br>
 similar to NXP dev board, but cost reduced. </br>
 different versions: with so-dimm "laptop" ddr3, with standard full size "Desktop" ddr3 </br>
 ddr can also be a PCIe module, user can swap. </br> 
-with cheap 1Gbe Ethernet, with Better 1x SFP+ 10G cage, NXP recomended IC or common Aquantia AC100 Marvell </br>
+with cheap 1Gbe Ethernet, with Better 1x SFP+ 10G cage, NXP recomended IC or common Marvell Aquantia AC100 [Sonnet](https://www.sonnettech.com/product/solo10g-sfp-pcie-card.html), Asus XG-C100F, etc.. </br>
 with CPU SATA-II 3Gbps, with faster SATA-III 6Gbps like [Sonnet Temp SSD to PCIe card](https://www.sonnettech.com/product/tempossd.html) </br>
 or nothing, just PCIe slots, </br>
 maybe with PCI to PCIe bridge "there are 4 different IC brands", </br> 

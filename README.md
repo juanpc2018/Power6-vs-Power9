@@ -24,7 +24,7 @@ comes with too much all-in-one, 4x different Network adapters, etc... </br>
 [Power6](https://www.nxp.com/products/processors-and-microcontrollers/power-architecture/qoriq-communication-processors/t-series/qoriq-t4240-t4160-t4080-multicore-communications-processors:T4240) 28nm similar to Intel & AMD 2013-2015 technology, [Steamroller](https://en.wikipedia.org/wiki/Steamroller_(microarchitecture)), [Excavator](https://en.wikipedia.org/wiki/Excavator_(microarchitecture)), [Puma](https://en.wikipedia.org/wiki/Puma_(microarchitecture)), [Jaguar](https://en.wikipedia.org/wiki/Jaguar_(microarchitecture)) </br>
 2MB L2 cache. </br>
 
-[Power9](https://en.wikipedia.org/wiki/POWER9) Sforza 14nm 512KiB L2 2017 technology. </br>
+[Power9](https://en.wikipedia.org/wiki/POWER9) 14nm Sforza 512KiB L2 2017 technology "Big L3 | Small L2". </br>
 has 3x Boards, Ready to Run. </br>
 
 Problem with most modern Boards, </br>

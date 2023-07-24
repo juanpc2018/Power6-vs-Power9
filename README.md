@@ -41,6 +41,7 @@ other sollution can be like older PowerMac, Amiga 4k or [Pentium-II](https://en.
 easier than DIY socket, CPU soldered to a small PCB, can be swaped by user very easy. </br>
 2Ghz may require surface mount PCIe connector, Not Though Hole, </br>
 and a metallic bracket / retention mechanism / support, like gamer boards. </br>
+small CPU PCB can have standard Heatsink / waterblock mounting holes. </br>
 
 The idea is to make an ATX board, similar to NXP dev board, but cost reduced. </br>
 different versions: with so-dimm ddr3, with standard full size ddr3 </br>

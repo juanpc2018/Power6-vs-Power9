@@ -24,12 +24,12 @@ comes with too much all-in-one, 4x different Network adapters, etc... </br>
 [Power6](https://www.nxp.com/products/processors-and-microcontrollers/power-architecture/qoriq-communication-processors/t-series/qoriq-t4240-t4160-t4080-multicore-communications-processors:T4240) 28nm similar to Intel & AMD 2013-2015 technology, [Steamroller](https://en.wikipedia.org/wiki/Steamroller_(microarchitecture)), [Excavator](https://en.wikipedia.org/wiki/Excavator_(microarchitecture)), [Puma](https://en.wikipedia.org/wiki/Puma_(microarchitecture)), [Jaguar](https://en.wikipedia.org/wiki/Jaguar_(microarchitecture)) </br>
 2MB L2 cache. </br>
 
-[Power9](https://en.wikipedia.org/wiki/POWER9) 14nm Sforza 512KiB L2 2017 technology "Big L3 | Small L2". </br>
+[Power9](https://en.wikipedia.org/wiki/POWER9) 14nm Sforza 512KiB L2 2017 technology "Big L3 | small L2". </br>
 has 3x Boards, Ready to Run. </br>
 
 Problem with most modern Boards, </br>
 is that CPU pins, Sockets Made in China are designed to fail, </br>
-metal is brittle, and did Not happened with older boards X58. </br>
+metal is brittle, did Not happened with older boards X58. </br>
 
 DIY board can be: </br>
 soldered CPU 2000 solder balls, or </br>
@@ -45,10 +45,14 @@ easier than DIY socket, CPU soldered to a small PCB, can be swaped by user very 
 2Ghz may require surface mount PCIe connector, Not Though Hole, </br>
 and a metallic bracket / retention mechanism / support, like gamer boards. </br>
 small CPU PCB can have standard Heatsink / waterblock mounting holes. </br>
+1x CPU PCIe for Vertical L. "Cost Reduced" </br>
+2x PCIe for Horizontal = similar to Atmel STK600 mcu & rouding cards. </br> 
 
-The idea is to make an ATX board, similar to NXP dev board, but cost reduced. </br>
-different versions: with so-dimm ddr3, with standard full size ddr3 </br>
-with cheap 1Gbe Ethernet, with Better 1x SFP+ 10G cage, </br>
+The idea is to make an ATX board, compatible with many cases, </br>
+similar to NXP dev board, but cost reduced. </br>
+different versions: with so-dimm "laptop" ddr3, with standard full size "Desktop" ddr3 </br>
+maybe ddr can also be a PCIe module, user can swap. </br> 
+with cheap 1Gbe Ethernet, with Better 1x SFP+ 10G cage, NXP recomended IC or common Aquantia AC100 Broadcom </br>
 with CPU SATA-II 3Gbps, with faster SATA-III 6Gbps like [Sonnet Temp SSD to PCIe card](https://www.sonnettech.com/product/tempossd.html) </br>
 or nothing, just PCIe slots, </br>
 maybe with PCI to PCIe "there are 4 different IC brands", </br> 

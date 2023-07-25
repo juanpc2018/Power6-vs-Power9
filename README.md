@@ -113,14 +113,14 @@ Power6 12-core 1.8Ghz T4240 CPU is aprox. $1600usd. | $133usd. per core, </br>
 purchasing [1 unit](https://www.digikey.com/en/products/filter/embedded/microprocessors/694?s=N4IgjCBcoLQExVAYygFwE4FcCmAaEA9lANogCsIAugL7X4KSmoAsczADFfgGyIgCWAEyggYYdhHwAHVCJD5UATynYRggM4paQA) shipping in 5 days. </br>
 Mouser has $1500 | $125usd. 18 week wait, minimum 12 units. </br>
 The idea is a GoFundMe to purchase 108 or more, as much units as possible, to lower price as much as possible. </br>
-Top of the Line 1.8Ghz 12-core model </br>
+Top of the Line 1.8Ghz 12-core model 3x ddr3 channels.</br>
 [Mouser T4240 1.8Ghz](https://www.mouser.com/c/semiconductors/embedded-processors-controllers/microprocessors-mpu/?q=t4240&maximum%20clock%20frequency=1.8%20GHz) </br>
 cryto disabled:
 [T4240NSN7TTB](https://www.mouser.com/ProductDetail/NXP-Semiconductors/T4240NSN7TTB?qs=S0GpHP26UDLUtFS5%2Fv05eg%3D%3D)
 crypto enabled:
 [T4240NSE7TTB](https://www.mouser.com/ProductDetail/NXP-Semiconductors/T4240NSE7TTB?qs=S0GpHP26UDJXBDeHcjIYrQ%3D%3D)
 
-Top of the Line 1.8Ghz 8-core model </br>
+Top of the Line 1.8Ghz 8-core model 2x ddr3 channels.</br>
 [Mouser T4160 1.8GHz](https://www.mouser.com/c/semiconductors/embedded-processors-controllers/microprocessors-mpu/?maximum%20clock%20frequency=1.8%20GHz&number%20of%20cores=8%20Core&package%20%2F%20case=FC-PBGA-1932&series=T4160)</br>
 crypto disabled: [T4160NSN7TTB](https://www.mouser.com/ProductDetail/NXP-Semiconductors/T4160NSN7TTB?qs=S0GpHP26UDKkFx%2FAj3ZSbQ%3D%3D)
 cryprto enabled: [T4160NSE7TTB](https://www.mouser.com/ProductDetail/NXP-Semiconductors/T4160NSE7TTB?qs=S0GpHP26UDLLO6WoSz3UfA%3D%3D)</br>

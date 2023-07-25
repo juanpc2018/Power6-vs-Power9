@@ -2,7 +2,7 @@ does Not matter if CPU is soldered, has diy custom socket, off the self socket o
 requires cooling, and cooling requires mounting holes. </br>
 the idea is to make a "Universal" mounting, as compatible as possible with most common fans & waterblocks. </br>
 
-PCB for LGA Compatible Fan Holes for standard FAN mount. </br>
+LGA Compatible Fan Holes for standard PCB FAN mount. </br>
 
 The Sam460 boards use a light weight method, a large passive cooling glued + A4x10 Noctua on top, with very streched rubber groumet mounts. </br>
 https://www.youtube.com/watch?v=X75KbnOpZhA&t=1034 </br>

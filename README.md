@@ -109,9 +109,9 @@ Power9 4-core  $586usd.  | $147usd. </br>
 having a lower price per core requires purchasing very large quantity. </br>
 REQUIRES GoFundME or similar. </br>
 
-Power6 12-core 1.8Ghz T4240 CPU is $1600usd. | $133usd. per core, </br>
-purchasing 1 unit shipping in 5 days. </br>
-$1500 | $125usd. 18 week wait, minimum 12 units purchase. </br>
+Power6 12-core 1.8Ghz T4240 CPU is aprox. $1600usd. | $133usd. per core, </br>
+purchasing [1 unit](https://www.digikey.com/en/products/filter/embedded/microprocessors/694?s=N4IgjCBcoLQExVAYygFwE4FcCmAaEA9lANogCsIAugL7X4KSmoAsczADFfgGyIgCWAEyggYYdhHwAHVCJD5UATynYRggM4paQA) shipping in 5 days. </br>
+Mouser has $1500 | $125usd. 18 week wait, minimum 12 units. </br>
 The idea is a GoFundMe to purchase 108 or more, as much units as possible, to lower price as much as possible. </br>
 Top of the Line 1.8Ghz 12-core model </br>
 [Mouser T4240 1.8Ghz](https://www.mouser.com/c/semiconductors/embedded-processors-controllers/microprocessors-mpu/?q=t4240&maximum%20clock%20frequency=1.8%20GHz) </br>

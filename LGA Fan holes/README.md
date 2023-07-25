@@ -38,7 +38,7 @@ is that manufactureres discontinue as fast as possible to sell again with a diff
 it would require an investigation to know what is the most sold / common CPU / socket type, to avoid becoming incompatible too fast. </br>
 1366 775 are classic, AMD Opteron 6000 is rare, Some Intel 2011 are Wide like X 1366, and Narrow, like AMD Opetron, but holes are incompatible. </br> 
 
-Koolance has variable mount in some wayterblock designs </br>
+Koolance has variable mount in some waterblock designs </br>
 but those designs does Not have advanced micro fins for better heat transfer, </br>
 just basic fins / pins, cooling efficiency is Not as good as dedicated coolers. </br>
 

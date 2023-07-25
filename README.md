@@ -120,7 +120,8 @@ cryto disabled:
 crypto enabled:
 [T4240NSE7TTB](https://www.mouser.com/ProductDetail/NXP-Semiconductors/T4240NSE7TTB?qs=S0GpHP26UDJXBDeHcjIYrQ%3D%3D)
 
-[Mouser 8-core T4160 1.8GHz](https://www.mouser.com/c/semiconductors/embedded-processors-controllers/microprocessors-mpu/?maximum%20clock%20frequency=1.8%20GHz&number%20of%20cores=8%20Core&package%20%2F%20case=FC-PBGA-1932&series=T4160)</br>
+Top of the Line 1.8Ghz 8-core model </br>
+[Mouser T4160 1.8GHz](https://www.mouser.com/c/semiconductors/embedded-processors-controllers/microprocessors-mpu/?maximum%20clock%20frequency=1.8%20GHz&number%20of%20cores=8%20Core&package%20%2F%20case=FC-PBGA-1932&series=T4160)</br>
 crypto disabled: [T4160NSN7TTB](https://www.mouser.com/ProductDetail/NXP-Semiconductors/T4160NSN7TTB?qs=S0GpHP26UDKkFx%2FAj3ZSbQ%3D%3D)
 cryprto enabled: [T4160NSE7TTB](https://www.mouser.com/ProductDetail/NXP-Semiconductors/T4160NSE7TTB?qs=S0GpHP26UDLLO6WoSz3UfA%3D%3D)</br>
 
@@ -129,3 +130,4 @@ $1100 - $1200usd. | $137usd. $150usd. aprox.</br>
 Lowest price possible 1.5Ghz 4-core [T4080](https://www.mouser.com/c/semiconductors/embedded-processors-controllers/microprocessors-mpu/?number%20of%20cores=4%20Core&package%20%2F%20case=FC-PBGA-1932&sort=pricing)</br>
 [T4080NSN7PQB](https://www.mouser.com/ProductDetail/NXP-Semiconductors/T4080NSN7PQB?qs=nr7BunVhf4pFB%252BS4fJptRg%3D%3D)</br>
 $573usd. | $143usd. aprox. </br>
+$682usd | $170usd. [5 day](https://www.digikey.com/en/products/filter/embedded/microprocessors/694?s=N4IgjCBcoLQExVAYygFwE4FcCmAaEA9lANogCsIAugL7X4KSmoAsADABytX4BsiIASwAmUEDDCsI%2BAA6pRIfKgCe07KICGAZxS0gA) shipping.

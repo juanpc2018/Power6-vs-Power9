@@ -115,7 +115,7 @@ Mouser has $1500 | $125usd. 18 week wait, minimum 12 units. </br>
 The idea is a GoFundMe to purchase 108 or more, as much units as possible, to lower price as much as possible. </br>
 Top of the Line 1.8Ghz 12-core model 3x ddr3 channels.</br>
 [Mouser T4240 1.8Ghz](https://www.mouser.com/c/semiconductors/embedded-processors-controllers/microprocessors-mpu/?q=t4240&maximum%20clock%20frequency=1.8%20GHz) </br>
-cryto disabled:
+crypto disabled:
 [T4240NSN7TTB](https://www.mouser.com/ProductDetail/NXP-Semiconductors/T4240NSN7TTB?qs=S0GpHP26UDLUtFS5%2Fv05eg%3D%3D)
 crypto enabled:
 [T4240NSE7TTB](https://www.mouser.com/ProductDetail/NXP-Semiconductors/T4240NSE7TTB?qs=S0GpHP26UDJXBDeHcjIYrQ%3D%3D)

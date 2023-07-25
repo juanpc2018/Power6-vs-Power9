@@ -53,7 +53,7 @@ similar to NXP dev board, but cost reduced. </br>
 different versions: with so-dimm "laptop" ddr3, with standard full size "Desktop" ddr3 </br>
 ddr can also be a PCIe module, user can swap. </br> 
 with cheap 1Gbe Ethernet, with Better 1x SFP+ 10G cage, NXP recomended IC or common Marvell Aquantia AC100 [Sonnet](https://www.sonnettech.com/product/solo10g-sfp-pcie-card.html), Asus XG-C100F, etc.. </br>
-with CPU SATA-II 3Gbps, with faster SATA-III 6Gbps like [Sonnet Temp SSD to PCIe card](https://www.sonnettech.com/product/tempossd.html) </br>
+with CPU SATA-II 3Gbps, with faster SATA-III 6Gbps like [Sonnet Tempo SSD to PCIe card](https://www.sonnettech.com/product/tempossd.html) </br>
 or nothing, just PCIe slots, </br>
 maybe with PCI to PCIe bridge "there are 4 different IC brands", </br> 
 some old PCI cards like Digi001 have issues with X58 PCI, but work ok with older 975x boards. </br>
@@ -72,6 +72,7 @@ Power9 22-core $4962usd. | $226usd. per core. </br>
 Power9 18-core $2634usd. | $147usd. per core. </br>
 Power9 8-core  $1366usd. | $171usd. per core. </br>
 Power9 4-core  $945usd.  | $237usd. per core. </br>
+Average price per core $195usd.</br>
 
 2x CPU board TL2MB1: </br>
 $4050usd. = $2025usd. per cpu </br>
@@ -107,3 +108,23 @@ Power9 4-core  $586usd.  | $147usd. </br>
 
 having a lower price per core requires purchasing very large quantity. </br>
 REQUIRES GoFundME or similar. </br>
+
+Power6 12-core 1.8Ghz T4240 CPU is $1600usd. | $133usd. per core, </br>
+purchasing 1 unit shipping in 5 days. </br>
+$1500 | $125usd. 18 week wait, minimum 12 units purchase. </br>
+The idea is a GoFundMe to purchase 108 or more, as much units as possible, to lower price as much as possible. </br>
+Top of the Line 1.8Ghz 12-core model </br>
+[Mouser T4240 1.8Ghz](https://www.mouser.com/c/semiconductors/embedded-processors-controllers/microprocessors-mpu/?q=t4240&maximum%20clock%20frequency=1.8%20GHz) </br>
+cryto disabled:
+[T4240NSN7TTB](https://www.mouser.com/ProductDetail/NXP-Semiconductors/T4240NSN7TTB?qs=S0GpHP26UDLUtFS5%2Fv05eg%3D%3D)
+crypto enabled:
+[T4240NSE7TTB](https://www.mouser.com/ProductDetail/NXP-Semiconductors/T4240NSE7TTB?qs=S0GpHP26UDJXBDeHcjIYrQ%3D%3D)
+
+[Mouser 8-core T4160 1.8GHz](https://www.mouser.com/c/semiconductors/embedded-processors-controllers/microprocessors-mpu/?maximum%20clock%20frequency=1.8%20GHz&number%20of%20cores=8%20Core&package%20%2F%20case=FC-PBGA-1932&series=T4160)</br>
+[cryprto enabled T4160NSE7TTB](https://www.mouser.com/ProductDetail/NXP-Semiconductors/T4160NSE7TTB?qs=S0GpHP26UDLLO6WoSz3UfA%3D%3D)</br>
+[crypto disabled T4160NSN7TTB](https://www.mouser.com/ProductDetail/NXP-Semiconductors/T4160NSN7TTB?qs=S0GpHP26UDKkFx%2FAj3ZSbQ%3D%3D)</br>
+$1100 - $1200usd. | $137usd. $150usd. aprox.</br>
+
+Lowest price possible 1.5Ghz 4-core [T4080](https://www.mouser.com/c/semiconductors/embedded-processors-controllers/microprocessors-mpu/?number%20of%20cores=4%20Core&package%20%2F%20case=FC-PBGA-1932&sort=pricing)</br>
+[T4080NSN7PQB](https://www.mouser.com/ProductDetail/NXP-Semiconductors/T4080NSN7PQB?qs=nr7BunVhf4pFB%252BS4fJptRg%3D%3D)</br>
+$573usd. | $143usd. aprox. </br>

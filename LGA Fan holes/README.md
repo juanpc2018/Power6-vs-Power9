@@ -34,9 +34,13 @@ https://translated.turbopages.org/proxy_u/ru-en.en.f8a0dd9f-63aa06ba-02f5e664-74
 https://www.anandtech.com/show/17240/the-noctua-nhp1-passive-cooler-review </br>
 
 The problem with LGA mounting: 1366, 1150, 1151, 1151-1, 2001, 2011, 2011-3, 3647, etc.. </br>
-is that manufactureres discontinue as fast as possible to sell the same cooler again with a different incompatible mount. </br>
+is that manufactureres discontinue as fast as possible to sell again with a different mount. </br>
 it would require an investigation to know what is the most sold / common CPU / socket type, to avoid becoming incompatible too fast. </br>
 1366 775 are classic, AMD Opteron 6000 is rare, Some Intel 2011 are Wide like X 1366, and Narrow, like AMD Opetron, but holes are incompatible. </br> 
+
+Koolance has variable mount in some wayterblock designs </br>
+but those designs does Not have advanced micro fins for better heat transfer, </br>
+just basic fins / pins, cooling efficiency is Not as good as dedicated coolers. </br>
 
 LGA mount dimensions: </br>
 https://koolance.com/files/products/diagrams/cpu-380i_d1.pdf </br>

@@ -36,7 +36,7 @@ soldered CPU 2000 solder balls, or </br>
 custom socket, No off the shelf part. </br>
 DIY socket could be like some Fine Stylus tips, </br>
 with spring tip, like a [Pentium4 478 socket](https://en.wikipedia.org/wiki/Pentium_4#/media/File:Pentium_4_-_SL5TK_-_pin_side-3057.jpg) but backwards, Pins on board, </br>
-like [AMD Ryzem](https://en.wikipedia.org/wiki/Ryzen#/media/File:AMD_Ryzen_7_3700X_pins_IMGP3168_smial_wp.jpg), but backwards, pins on board, and  must have springs 5mm tolerance. </br>
+like [AMD Ryzen](https://en.wikipedia.org/wiki/Ryzen#/media/File:AMD_Ryzen_7_3700X_pins_IMGP3168_smial_wp.jpg), but backwards, pins on board, and  must have springs 5mm tolerance. </br>
 Balls are 1mm pitch, a DIY Socket will solve a lot of soldering issues,  </br>
 and will create a used CPU market, making easier for late adopters to get-in, </br>
 but diy socket will increase price. </br>

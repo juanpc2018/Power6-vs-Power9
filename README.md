@@ -139,5 +139,5 @@ same speech: we are Open but we are Not. </br>
 they are [closing walls](https://www.youtube.com/watch?v=6WOYnv59Bi8) slowly, </br>
 continuing the path to Ban Open Free Software. </br>
 IBM Power9 maybe better than Power6 technically but Ethically Not. </br>
-They think they have the Best Engineers on their side, and they will do antthing they tell them to do  </br>
+They think they have the Best Engineers on their side, and they will do anithing they tell them to do  </br>
 with a finger snapp, and is true, they do it without question.</br>

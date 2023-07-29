@@ -130,3 +130,10 @@ Lowest price possible 1.5Ghz 4-core [T4080](https://www.mouser.com/c/semiconduct
 [T4080NSN7PQB](https://www.mouser.com/ProductDetail/NXP-Semiconductors/T4080NSN7PQB?qs=nr7BunVhf4pFB%252BS4fJptRg%3D%3D)</br>
 $573usd. | $143usd. aprox. </br>
 $682usd | $170usd. [5 day](https://www.digikey.com/en/products/filter/embedded/microprocessors/694?s=N4IgjCBcoLQExVAYygFwE4FcCmAaEA9lANogCsIAugL7X4KSmoAsADABytX4BsiIASwAmUEDDCsI%2BAA6pRIfKgCe07KICGAZxS0gA) shipping.
+
+After Price comes Ethics dilema</br>
+IBM has closed source RHEL, a few years after purchase. </br>
+similar happens with New RiscOS version for ARM CPUs. </br>
+they are [closing walls](https://www.youtube.com/watch?v=6WOYnv59Bi8) slowly, </br>
+continuing the path to Ban Open Free Software. </br>
+IBM Power9 maybe better than Power6 technically but Ethically Not. </br>

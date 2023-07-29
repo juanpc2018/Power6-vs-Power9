@@ -133,7 +133,7 @@ $682usd | $170usd. [5 day](https://www.digikey.com/en/products/filter/embedded/m
 
 After Price comes Ethics dilema</br>
 IBM has closed source [RHEL](https://www.redhat.com/en/blog/red-hats-commitment-open-source-response-gitcentosorg-changes), a few years after [purchase](https://www.redhat.com/en/ibm). </br>
-they claim they are Not making enough money, same as Holliwood Strike.</br>
+they claim they are Not making enough money, same as [Hollywood Strike](https://www.youtube.com/watch?v=zNS2EtQbG5I).</br>
 similar also to the New [RiscOS](https://www.youtube.com/watch?v=sneYGad3j5I) version for ARM CPUs "Raspberry Pi, </br>
 same speech: we are Open but we are Not. </br>
 they are [closing walls](https://www.youtube.com/watch?v=6WOYnv59Bi8) slowly, </br>

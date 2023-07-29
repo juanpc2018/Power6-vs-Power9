@@ -133,7 +133,7 @@ $682usd | $170usd. [5 day](https://www.digikey.com/en/products/filter/embedded/m
 
 After Price comes Ethics dilema</br>
 IBM has closed source [RHEL](https://www.redhat.com/en/blog/red-hats-commitment-open-source-response-gitcentosorg-changes), [1](https://sfconservancy.org/blog/2023/jun/23/rhel-gpl-analysis/), a few years after [purchase](https://www.redhat.com/en/ibm). </br>
-they claim they are Not making enough money, same as [Hollywood Strike](https://www.youtube.com/watch?v=zNS2EtQbG5I), [2](https://www.reuters.com/technology/ibm-pause-hiring-plans-replace-7800-jobs-with-ai-bloomberg-news-2023-05-01/).</br>
+they claim they are Not making enough money, same as [Hollywood Strike](https://www.youtube.com/watch?v=zNS2EtQbG5I),[1](https://www.reuters.com/technology/ibm-pause-hiring-plans-replace-7800-jobs-with-ai-bloomberg-news-2023-05-01/), [2](https://www.bloomberg.com/news/articles/2023-05-01/ibm-to-pause-hiring-for-back-office-jobs-that-ai-could-kill#xj4y7vzkg), [3](https://www.bloomberg.com/news/articles/2023-07-19/ibm-maintains-full-year-sales-forecast-easing-fears-of-slowdown#xj4y7vzkg), [4](https://www.bloomberg.com/news/newsletters/2023-07-01/us-ai-chip-controls-blackrock-inflection-raises-1-3-billion-the-week-in-ai).</br>
 similar also to the New [RiscOS](https://www.youtube.com/watch?v=sneYGad3j5I) version for ARM CPUs "Raspberry Pi, </br>
 same speech: we are Open but we are Not. </br>
 they are [closing walls](https://www.youtube.com/watch?v=6WOYnv59Bi8) slowly, </br>

@@ -133,11 +133,11 @@ $682usd | $170usd. [5 day](https://www.digikey.com/en/products/filter/embedded/m
 
 After Price comes Ethics dilema</br>
 IBM has closed source [RHEL](https://www.redhat.com/en/blog/red-hats-commitment-open-source-response-gitcentosorg-changes), [1](https://sfconservancy.org/blog/2023/jun/23/rhel-gpl-analysis/), a few years after [purchase](https://www.redhat.com/en/ibm). </br>
-they claim they are Not making enough money, same as [Hollywood Strike](https://www.youtube.com/watch?v=zNS2EtQbG5I).</br>
+they claim they are Not making enough money, same as [Hollywood Strike](https://www.youtube.com/watch?v=zNS2EtQbG5I), [2](https://www.reuters.com/technology/ibm-pause-hiring-plans-replace-7800-jobs-with-ai-bloomberg-news-2023-05-01/).</br>
 similar also to the New [RiscOS](https://www.youtube.com/watch?v=sneYGad3j5I) version for ARM CPUs "Raspberry Pi, </br>
 same speech: we are Open but we are Not. </br>
 they are [closing walls](https://www.youtube.com/watch?v=6WOYnv59Bi8) slowly, </br>
 continuing the path to Ban Open Free Software. </br>
 IBM Power9 maybe better than Power6 technically but Ethically Not. </br>
 They think they have the Best Engineers on their side, and they will do anithing they tell them to do  </br>
-with a finger snapp, and is true, they do it without question [1](https://www.theregister.com/2021/04/05/google_prevails_over_oracle_in/), [2](https://www.reuters.com/technology/ibm-pause-hiring-plans-replace-7800-jobs-with-ai-bloomberg-news-2023-05-01/).</br>
+with a finger snapp, and is true, they do it without question [1](https://www.theregister.com/2021/04/05/google_prevails_over_oracle_in/), </br>
